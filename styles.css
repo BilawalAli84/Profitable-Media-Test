@@ -1,10 +1,9 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background: linear-gradient(135deg, #fde8e3, #f3e2f3, #d4e4fa);
+    background: linear-gradient(135deg, #f4cdc6, #f7dce8, #d9bff3);
     font-family: 'Jost', sans-serif !important;
     overflow-x: hidden;
-    
 }
 
 * {
@@ -223,13 +222,6 @@ body {
 .page-indicator {
     font-size: 1rem;
     color: #555;
-}
-
-body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background: linear-gradient(135deg, #fde8e3, #f3e2f3, #d4e4fa);
-    overflow-x: hidden;
 }
 
 .progress-section {
